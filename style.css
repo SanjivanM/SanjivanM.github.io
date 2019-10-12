@@ -33,9 +33,9 @@ section {
     height: 100vh;
     border: 1px solid black;
     display: flex;
-    justify-content: center;
+    justify-content: ;
     align-items: ;
-    text-align: center;
+    text-align: ;
 }
 
 #home .profile-img {
@@ -45,4 +45,4 @@ section {
 footer {
     text-align: center;
     padding: 50px;
-}
+}s
