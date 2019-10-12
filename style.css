@@ -31,7 +31,7 @@ header li {
 
 section {
     height: 100vh;
-    border: 1px solid black;
+    border: 5px groove #94F3BD;
     display: flex;
     justify-content: ;
     align-items: ;
